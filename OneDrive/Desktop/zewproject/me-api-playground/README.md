@@ -54,7 +54,12 @@ Frontend (HTML/CSS/JavaScript)
 
 Resume
 
-https://drive.google.com/your-resume-link
+https://drive.google.com/file/d/1ii2jpmLdAyXGt8Gol3SdxM_N1Py9dNMf/view?usp=drivesdk
+
+Remarks:
+- Frontend is minimal, focus was on backend logic.
+- Authentication uses JWT stored in localStorage.
+- Given more time, I would add validation, refresh tokens, and role-based access.
 
 
 AUTHOR
