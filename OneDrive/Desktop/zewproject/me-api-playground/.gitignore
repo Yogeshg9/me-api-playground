@@ -1,0 +1,15 @@
+# OS / System
+desktop.ini
+*.lnk
+
+# Documents
+*.pdf
+*.docx
+*.pptx
+
+# Random folders
+node_modules/
+.env
+
+# OneDrive noise
+OneDrive/
